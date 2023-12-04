@@ -1,0 +1,9 @@
+{
+	"name": "learningADF-Udemy-VR1",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53a60aa0-7caa-426e-b5b0-3ae360da86a7",
+		"tenantId": "5b973f99-77df-4beb-b27d-aa0c70b8482c"
+	}
+}
